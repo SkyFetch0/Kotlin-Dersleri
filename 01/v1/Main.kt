@@ -1,4 +1,4 @@
-// Kotlin Tabanlı Basit Hesap Makinası
+// Kotlin Tabanlı Basit Hesap Makinası 
 fun test() {
     print("Veri Girin: ")
     val name = readln();
