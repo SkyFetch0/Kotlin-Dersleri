@@ -61,7 +61,7 @@ fun gui_start() {
        print("\n")
 
    }
-    println("Skyfetch Kotlin Tabanlı Hesap Makinası V0.1")
+    println("Skyfetch Kotlin Tabanlı Hesap Makinası V0.1.1")
 
     println("Yapılacak İşlem Seçin\n1-Toplama\t3-Carpma\n2-Cikarma\t4-Bolme")
     print("Seçim: ")
